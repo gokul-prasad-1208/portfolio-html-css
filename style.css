@@ -1,0 +1,96 @@
+body {
+    font-family: "Quicksand", sans-serif;
+    padding: 20px;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.section-one,.section-two,.section-three,.section-four,.section-five {
+margin-top: 20px;
+}
+.section-one__title,.section-two__title,.section-three__title,.section-four__title,.section-five__title{
+margin-bottom: 10px;
+}
+
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+
+.section-one__title{
+    padding : 20px 20px 0px 0px;
+    font-size: 60px;
+}
+
+.section-one__desc{
+font-size: 30px;
+margin-bottom: 10px;
+}
+
+.section-one a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    background-color: orangered;
+}
+
+
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 10px 0px 10px 10px;
+}
+
+.section-five a{
+    color:skyblue
+}
+
+.section-four__desc,.section-three__desc {
+    list-style-type: none;
+}
+
+.section-three{
+    display: inline-block;
+    background-color: #6462fd;
+    height: 200px;
+    padding : 15px;
+    border-radius: 5px;
+    vertical-align: top;
+}
+
+.section-four{
+    display: inline-block;
+    background-color: #fe7517;
+    height: 200px;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.contact-form{
+    margin-top: 20px;
+}
+
+.contact-form__input{
+    border:none;
+    border-bottom: 1px solid rgb(80, 77, 77);
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.contact-form__textarea{
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.contact-form__submit{
+background-color: orangered;
+padding: 7px ;
+border: none;
+}
