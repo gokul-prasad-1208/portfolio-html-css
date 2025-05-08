@@ -8,6 +8,6 @@ Contact Page – Contains a form or contact details for visitors to reach out.
 Fully responsive design using only HTML and CSS.
 
 🔧 Technologies Used
-HTML5
 
+HTML5
 CSS3
